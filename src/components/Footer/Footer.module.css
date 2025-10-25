@@ -1,0 +1,38 @@
+.footer {
+    background-color: black;
+    color: white;
+    padding: 30px 80px;
+    display: flex;
+    display: wrap;
+}
+
+.berry {
+    margin-top: 20px;
+}
+
+.support {
+    margin-top: 25px;
+    max-width: 300px;
+}
+
+.icons {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+}
+
+.contacts {
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.nomer {
+    margin-top: 25px;
+}
+
+.email {
+    margin-top: 15px;
+}
+
+

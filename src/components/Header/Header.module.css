@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    background-color: rgb(110, 4, 4);
+    color: white;
+    padding: 0 40px; 
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.href {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 80px;
+    font-size: 18px;
+}
+
+.logo {
+    margin-left: 20px;  
+    padding-bottom: 50px;  
+    font-size: 20px;
+}

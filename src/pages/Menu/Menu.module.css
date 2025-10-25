@@ -1,0 +1,30 @@
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.search input {
+    padding: 10px 20px;
+    border: 1px solid black;
+    /* border: none; */
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.search button {
+    padding: 13px 26px;
+    border-radius: 10px;
+    border: none;
+    /* border: 1px solid black; */
+}
+
+.icons {
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -45px;
+    margin-right: 40px;
+}
