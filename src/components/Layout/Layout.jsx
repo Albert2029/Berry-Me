@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 
 function Layout () {
   return (
-    <div style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
+    <div style={{ display: "flex", flexDirection: "column", minHeight: "151vh" }}>
       <Header />
       <main style={{ flexGrow: 1 }}>
         <Outlet />

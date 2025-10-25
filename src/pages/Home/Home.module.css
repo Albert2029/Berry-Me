@@ -18,7 +18,7 @@
   background-image: url('https://lifehacker.ru/wp-content/uploads/2024/06/shutterstock_2466375051_1_1718341925_e1718341967884.jpg');
   background-size: cover;
   background-position: center;
-  filter: blur(8px);      
+  filter: blur(12px);      
   z-index: -1;             
 }
 
@@ -43,6 +43,15 @@ h2 {
     border-radius: 20px;
     font-size: 19px;
     cursor: pointer;
+}
+
+.home button:hover {
+    background-color: rgb(153, 0, 0);
+}
+
+.home button:active {
+    background-color: rgb(65, 0, 0);
+    transform: scale(0.95);
 }
 
 

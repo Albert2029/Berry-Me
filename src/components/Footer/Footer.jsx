@@ -13,7 +13,7 @@ const Footer = () => {
             <h3>Berry Me</h3>
         </div>
         <div className={styles.support}>
-            <p>При возникновении ошибки во врем заказа обратитесь к нам</p>
+            <p>При возникновении ошибки во время заказа обратитесь к нам</p>
         </div>
         <div className={styles.icons}>
             <FaInstagram />
